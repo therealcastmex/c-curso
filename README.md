@@ -1,0 +1,2 @@
+# c-curso
+MI PROYECTO CON GIT
